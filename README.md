@@ -1,18 +1,11 @@
 ![](RackMultipart20231212-1-uaaru1_html_957da2369959fe46.png)
 
-**FACULTAD**** DE INGENIERIA CIVIL**
-
-**INGENIERO**** TOPOGRAFO ****GEOMATICO**
-
-**"Categoría de los ciclones en los últimos 3 años basada en la velocidad de sus vientos****"**
-
-**Maestro** :Sebastián Gonzales Zepeda
-
-**Autor**
-
-Edgar Oswaldo Sebastián López
-
-**Grado y**** Grupo**: 3ºB
+<br>**FACULTAD**** DE INGENIERIA CIVIL**
+<br>**INGENIERO**** TOPOGRAFO ****GEOMATICO**
+<br>**"Categoría de los ciclones en los últimos 3 años basada en la velocidad de sus vientos****"**
+<br>**Autor** Edgar Oswaldo Sebastián López
+<br> **Grado y**** Grupo**: 3ºB
+<br>**Asesor** :Sebastián Gonzales Zepeda
 
 **Resumen**
 
